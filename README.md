@@ -8,11 +8,15 @@
 ### Connect with me:
 [<img align="left" alt="Joseph | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 <br/>
+
 ### Languages and Tools:
-- Visual Studio Code
-- GitHub
-- C, C++
-- Python
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg">
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
+<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg">
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg">
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg">
+<br/>
+
 ---
 
 <img align="left" alt="sciencejiho's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sciencejiho&show_icons=true&hide_border=true&theme=gruvbox&count_private=true&hide=prs,contribs"/>
