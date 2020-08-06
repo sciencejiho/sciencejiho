@@ -1,5 +1,5 @@
 ### Hi there, I'm Joseph. People call me Joe! 👋
-
+![Profile views](https://gpvc.arturio.dev/sciencejiho)
 ## I'm a Student, and Developer!
 - 🔭 I’m currently studying in University of Illinois at Urbana-Champaign.
 - 🌱 I’m currently learning machine learning and Unity.
