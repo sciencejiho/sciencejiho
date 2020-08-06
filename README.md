@@ -16,4 +16,6 @@
 
 ---
 
-<img align="left" alt="sciencejiho's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sciencejiho&show_icons=true&hide_border=true"/>
+<img align="left" alt="sciencejiho's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sciencejiho&show_icons=true&hide_border=true&theme=gruvbox&count_private=true&hide=prs,contribs"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sciencejiho&theme=gruvbox&count_private=true&layout=compact)](https://github.com/sciencejiho/)
