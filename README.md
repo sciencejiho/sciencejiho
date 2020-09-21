@@ -6,7 +6,8 @@
 - 💬 Ask me about CI and GitHub questions!
 - I am a big fan of memes, animations, and all sort of different hobbies!
 ```javascript
-(`omaewa` + `mou` - `shindeiru` + String.fromCodePoint(0x69)).toUpperCase()
+>> ("omaewa" + "mou" - "shindeiru" + String.fromCodePoint(0x69)).toUpperCase()
+<< "NANI"
 ```
 ### Connect with me:
 [<img align="left" alt="Joseph | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
