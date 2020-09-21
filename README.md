@@ -4,7 +4,10 @@
 - 🔭 I’m currently studying in University of Illinois at Urbana-Champaign.
 - 🌱 I’m currently learning machine learning and Unity.
 - 💬 Ask me about CI and GitHub questions!
-
+- I am a big fan of memes, animations, and all sort of different hobbies!
+```javascript
+(`omaewa` + `mou` - `shindeiru` + String.fromCodePoint(0x69)).toUpperCase()
+```
 ### Connect with me:
 [<img align="left" alt="Joseph | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 <br/>
