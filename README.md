@@ -10,7 +10,8 @@
 << "NANI"
 ```
 ### Connect with me:
-[<img align="left" alt="Joseph | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Joseph | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Joseph's Website" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg"/>][Website]
 <br/>
 
 ### Languages and Tools:
@@ -28,3 +29,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sciencejiho&theme=gruvbox&count_private=true&layout=compact)](https://github.com/sciencejiho/)
 
 [linkedin]: https://www.linkedin.com/in/jiho-han-325b25172/
+[Website]: https://www.sciencejiho.com
