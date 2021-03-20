@@ -11,7 +11,7 @@
 << "NANI"
 ```
 ### Connect with me:
-[<img align="left" alt="Joseph | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Joseph | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][LinkedIn]
 [<img align="left" alt="Joseph's Website" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg"/>][Website]
 <br/>
 
@@ -29,5 +29,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sciencejiho&theme=gruvbox&count_private=true&layout=compact&hide=php,html,hack)](https://github.com/sciencejiho/)
 
-[linkedin]: https://www.linkedin.com/in/jiho-han-325b25172/
+[LinkedIn]: https://www.linkedin.com/in/sciencejiho/
 [Website]: https://www.sciencejiho.com
