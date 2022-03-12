@@ -2,7 +2,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/sciencejiho)
 ## I'm a Student, and Developer!
-- 🔭 I’m currently studying in University of Illinois at Urbana-Champaign.
+- 🔭 I’m currently studying Masters in Computer Science in University at Albany - State University of New York.
+- 🔭 I’ve graduated in University of Illinois at Urbana-Champaign in Computer Engineering.
 - 🌱 I’m currently learning machine learning and Unity.
 - 💬 Ask me about CI and GitHub questions!
 - I am a big fan of memes, animations, and all sort of different hobbies!
