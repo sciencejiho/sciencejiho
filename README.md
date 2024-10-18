@@ -2,19 +2,22 @@
 
 ![Profile views](https://gpvc.arturio.dev/sciencejiho)
 ## I'm a Student, and Developer!
-- 🔭 I’m currently studying Masters in Artificial Intelligence in University of Michigan.
-- 🔭 I’ve graduated in University of Illinois at Urbana-Champaign in Computer Engineering.
-- 🌱 I’m currently learning machine learning and Unity.
-- 💬 Ask me about CI and GitHub questions!
-- I am a big fan of memes, animations, and all sort of different hobbies!
+- 🔭 I graduated with a Master's in Artificial Intelligence from the University of Michigan as an Honor Scholar, with High Distinction.
+- 🔭 I graduated from the University of Illinois at Urbana-Champaign with a degree in Computer Engineering.
+- 🌱 I’m currently researching large-scale machine learning, especially in the fields of time series AI-driven control/decision systems in the medical/manufacturing industry.
+- I am a big fan of memes, animations, and all sorts of different hobbies!
 
 ```javascript
 >> ("omaewa" + "mou" - "shindeiru" + String.fromCodePoint(0x69)).toUpperCase()
 << "NANI"
 ```
 ### Connect with me:
-[<img alt="Joseph | LinkedIn" src="https://img.shields.io/badge/Joseph's LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2">][LinkedIn]
-[<img alt="Joseph's Website" src="https://img.shields.io/badge/Joseph's Website-FFFFFF?style=for-the-badge&logo=wordpress&logoColor=21759B">][Website]
+[<img alt="Joseph's Homeepage" src="https://img.shields.io/badge/Joseph's Homepage-FFFFFF?style=for-the-badge&logo=netlify&logoColor=00C7B7">][Homepage]
+[<img alt="Joseph's Google Scholar" src="https://img.shields.io/badge/Joseph's Google Scholar-FFFFFF?style=for-the-badge&logo=googlescholar&logoColor=4285F4">][GoogleScholar]
+[<img alt="Joseph's ORCID" src="https://img.shields.io/badge/Joseph's ORCID-FFFFFF?style=for-the-badge&logo=orcid&logoColor=A6CE39">][ORCID]
+[<img alt="Joseph's LinkedIn" src="https://img.shields.io/badge/Joseph's LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2">][LinkedIn]
+[<img alt="Joseph's LinkedIn" src="https://img.shields.io/badge/Joseph's LinkedIn-FFFFFF?style=for-the-badge&logo=semanticscholar&logoColor=1857B6">][SemanticScholar]
+
 <br/>
 
 ### Languages and Tools:
@@ -47,7 +50,6 @@
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=18152E">
   <img alt="Adobe After Effects" src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=393665"> 
   <img alt="Clip Studio" src="https://img.shields.io/badge/Clip%20Studio-F2F2F2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAMAAAC7IEhfAAAA1VBMVEUAAAAAAAD///8AAABAQEAzMzMAAABJSUk7OztOTk5ERFVHOUdJSUlERERKSkpSUlJOTk5ARkZGRkZBQUFFSkU8PDw4ODhFRUVDRkYyNTVFRUVFRUVFRUVHR0dHR0dNTU1AQEBGRkZERERGRkZMTExFRUVGRkdHR0dFRUVGRkZHRkdHR0dHR0dFRUVGRkZGRkZGRkZGRkZGRUZGRkZHR0dFRUVGRkZGRkZHRkZFRUVGRkZGRkZGRkZERURERUVFREVFRUVGRkZGRkdGR0ZGR0dHRkZHRkea98CwAAAAPXRSTlMAAQECBAUGBw0NDxIcHh8fJCgoLzRMUllbXF1gZGx2fn+Ol5yen6Gztr2+v8PL0dba3uTn6uvw9Pj5+/z+c9v5UwAAAVRJREFUeNpioAcANENXi20rQQBAJ/eWmVNmZgzDnN1s/v+PSlJtq62s1x6xFgbeHZB4FMu8JakVe/w/MutOAwVItPjTcUiKRY7E0EtSqSSNbEUCV2LBe3qVtvFffHeZBKfn83QabMfM9UoWFudlU9CuxYBUKQvzyGQlfifh/M/31cym8Sb+4gOwmGDMHbO/Fj17ita9FnJvPu21xYUHVPXkPOF51yU408emcLPbMdn/OfNJkqTU+uAvSLka313VWW8qFA410UHlYv8OSaWlSil3o7ePFD8drXopwbn4RZWIzr1dvSZtxRwVdqJ3dr7h41gAVZaYe0DiRCy4UYC8Hct8aQkVscSOqldi1CmydlchxtzXqVLzcDQ1nUSzHiOgFrUVqV2IcVWq4FMs9QqKvBVTsEe7FJNIhZj07BBpMyYVBVZikpZZfI5JTxva85j2Ue6Lf8c3sayKR3lnruEAAAAASUVORK5CYII="> 
-  <img alt="Adobe Acrobat Reader" src="https://img.shields.io/badge/Acrobat%20Reader-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFFFFF"> 
 </p>
 
 <br/>
@@ -64,5 +66,8 @@
 </div>
 
 
+[Homepage]: https://www.sciencejiho.com
+[GoogleScholar]: https://scholar.google.co.kr/citations?hl=ko&user=UJpRdiQAAAAJ
+[ORCID]: https://orcid.org/0009-0003-9329-5628
 [LinkedIn]: https://www.linkedin.com/in/sciencejiho/
-[Website]: https://www.sciencejiho.com
+[SemanticScholar]: https://www.semanticscholar.org/author/JiHo-Han/2292343671
