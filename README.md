@@ -28,11 +28,6 @@
   <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF">
   <img alt="p5.js" src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=FFFFFF">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000">
-</p>
-
-<br/>
-
-<p align="center" width="100%">
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=FFFFFF"> 
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF">
   <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=FFFFFF">
@@ -59,12 +54,15 @@
 
 ---
 
-<a href="https://github.com/sciencejiho/sciencejiho">
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=sciencejiho&show_icons=true&hide_border=true&theme=gruvbox&count_private=true" />
-</a>
-<a href="https://github.com/sciencejiho/">
-  <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sciencejiho&theme=gruvbox&hide_border=true&count_private=true&layout=compact&hide=php,html,hack)" />
-</a>
+<div style="display: flex;">
+  <a href="https://github.com/sciencejiho/sciencejiho">
+    <img width="53%" align="center" src="https://github-readme-stats.vercel.app/api?username=sciencejiho&show_icons=true&hide_border=true&theme=gruvbox&count_private=true" />
+  </a>
+  <a href="https://github.com/sciencejiho/">
+    <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sciencejiho&theme=gruvbox&hide_border=true&count_private=true&layout=compact&hide=php,html,hack)" />
+  </a>
+</div>
+
 
 [LinkedIn]: https://www.linkedin.com/in/sciencejiho/
 [Website]: https://www.sciencejiho.com
